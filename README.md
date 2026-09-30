@@ -4,7 +4,7 @@ An AI-based dynamic pricing prototype that uses machine learning to estimate a r
 
 ## 🌐 Live Demo
 
-[Launch the Dynamic Pricing Engine]((https://02-dynamic-pricing.streamlit.app/))
+[Launch the Dynamic Pricing Engine](https://02-dynamic-pricing.streamlit.app/)
 
 ## 📌 Project Overview
 
