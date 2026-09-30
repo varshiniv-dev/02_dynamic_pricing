@@ -2,6 +2,10 @@
 
 An AI-based dynamic pricing prototype that uses machine learning to estimate a recommended product price from demand, inventory, competitor, seasonal, and transaction-related information.
 
+## 🌐 Live Demo
+
+[Launch the Dynamic Pricing Engine]((https://02-dynamic-pricing.streamlit.app/))
+
 ## 📌 Project Overview
 
 Dynamic pricing systems can adjust product prices based on changing market and business conditions.
